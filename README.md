@@ -12,7 +12,7 @@ Recently, I teamed up with a few students to build a mind-blowing segment compar
 
 ### Reactavision
 
-A movie picker web app built using the TMDB (The Movie Database) API. Users can browse upcoming, top-rated, popular, and now playing movies, search for movies by title, and save their favorites to a personalized list.[Click here for a demo!](https://reactavision.vercel.app/)
+A movie picker web app built using the TMDB (The Movie Database) API. Users can browse upcoming, top-rated, popular, and now playing movies, search for movies by title, and save their favorites to a personalized list. [Click here for a demo!](https://reactavision.vercel.app/)
 
 ### Cake Factory
 
