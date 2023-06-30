@@ -25,10 +25,11 @@ As a web developer, I've got a wide range of skills up my sleeve. Here are some 
 - Languages: C#, HTML5, CSS, JavaScript
 - Frameworks: .NET (Core and MVC), Tailwind, SASS, Node.js, React
 - Databases: SQL and NoSQL, I know my way around both!
+- AWS: EC2, RDS, Cognito, Lambda, API Gateway
 
 ## Let's Connect!
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/djk88/)
+- LinkedIn: [djk88](https://www.linkedin.com/in/djk88/)
 - Email: davekim88@gmail.com
 
 Feel free to hit me up if you've got questions, collaboration ideas, or just want to connect with a fellow coding enthusiast!
